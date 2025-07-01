@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"lab10","l":"ConsumerRunnable"},{"p":"lab10","l":"Hotel"},{"p":"lab10","l":"HotelTester"},{"p":"lab10","l":"PeriodicCustomer"},{"p":"lab10","l":"ProducerConsumerRunner"},{"p":"lab10","l":"ProducerRunnable"},{"p":"lab10","l":"Queue"}];updateSearchResults();
