@@ -1,6 +1,6 @@
 # Hotel Reservation System
 
-A Java-based concurrent hotel room booking system that demonstrates safe multi-user reservations using advanced concurrency techniques and object-oriented programming principles.
+A Java-based concurrent hotel room booking system that demonstrates safe multi-user reservations using advanced concurrency techniques and object-oriented programming principles. This project extends coursework in [Object-oriented Computing(CPSC 1181)](https://langara.ca/programs-courses/cpsc-1181) at Langara College.
 
 ## Project Overview
 This project implements a hotel reservation system where multiple users can book rooms concurrently. The system ensures thread safety and data consistency by leveraging Java's concurrency utilities, making it suitable for scenarios where multiple clients interact with the booking system simultaneously.
